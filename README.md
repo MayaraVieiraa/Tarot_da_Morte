@@ -110,8 +110,8 @@ Tarot_da_Morte/
 ## Documentação
 
 * **Artigo Científico:** Artigo formatado no padrão Springer LNCS
-* **Slides de Apresentação:** Apresentação de 10 minutos
 * **Relatório Técnico:** Detalhamento da harmonização V5 e metodologia
+* **Vídeo Explicativo:** https://drive.google.com/drive/folders/1L7qTMUcZgZs-_YSV_cD3DBcQ8ZemNmhi?usp=sharing 
 
 ## Autores
 
