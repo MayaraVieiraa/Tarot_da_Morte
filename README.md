@@ -118,7 +118,7 @@ Tarot_da_Morte/
 * **Mayara Vieira Martins Santos** - [ORCID](https://orcid.org/0009-0001-7946-7855)
 * **Ryan Sousa de Moraes** - [ORCID](https://orcid.org/0009-0002-6856-8906)
 
-**Orientação:** Instituto Federal de Brasília (IFB)
+**Orientação:** Prof. Fábio Henrique (IFB)
 **Disciplina:** Introdução à Ciência de Dados
 **Período:** 2025/2
 
